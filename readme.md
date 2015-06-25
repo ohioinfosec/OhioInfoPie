@@ -4,7 +4,7 @@ A Raspberry Pi 2 case with the OISF Logo
 
 ## Credits
 
-Thanks a ton to [aurelius](http://www.thingiverse.com/aurelius/about) for their [Raspberry Pi 2 modell B / 1 model B+ (plus) Modular-Case](www.thingiverse.com/thing:665042/) design on [Thingiverse](www.thingiverse.com)!
+Thanks a ton to [Walter Hsiao](http://www.thingiverse.com/walter/about) for their [Sleeve Case for Raspberry Pi B+](http://www.thingiverse.com/thing:604915) design on [Thingiverse](www.thingiverse.com)!
 
 ## License
 
