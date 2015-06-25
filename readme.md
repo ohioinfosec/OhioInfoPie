@@ -10,3 +10,6 @@ Thanks a ton to [Walter Hsiao](http://www.thingiverse.com/walter/about) for thei
 
 We love Creative Commons and have licensed our version under the same terms as the original design: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
+license these:
+https://commons.wikimedia.org/wiki/File:Lock.svg
+https://commons.wikimedia.org/wiki/File:Flag_Map_of_Ohio.svg
